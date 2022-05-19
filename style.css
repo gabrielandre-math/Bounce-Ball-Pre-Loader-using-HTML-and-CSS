@@ -41,9 +41,7 @@ body { background: #323430; }
   85% { transform: translate(0, -50%) scale(1, 0.8); }
   88% { transform: translate(0, -50%) scale(1, 0.8); }
   95%,
-  100% {
-    transform: translate(0, -50%) scale(1, 0.8);
-  }
+  100% { transform: translate(0, -50%) scale(1, 0.8); }
 }
 
 @keyframes bounceshadow {
