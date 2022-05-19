@@ -37,9 +37,7 @@ body { background: #323430; }
 @keyframes bounce {
   0% { transform: translate(0, -50%) scale(1, 0.8); }
   30% { transform: translate(0, -250%) scale(0.8, 1); }
-  60% {
-    transform: translate(0, -300%) scale(1, 0.8);
-  }
+  60% { transform: translate(0, -300%) scale(1, 0.8);}
   85% {
     transform: translate(0, -50%) scale(1, 0.8);
   }
