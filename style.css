@@ -53,7 +53,5 @@ body { background: #323430; }
   }
   88% { transform: scale(1, 0.25); }
   95%,
-  100% {
-    transform: scale(1, 0.25);
-  }
+  100% { transform: scale(1, 0.25); }
 }
