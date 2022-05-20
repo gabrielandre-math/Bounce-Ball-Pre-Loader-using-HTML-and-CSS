@@ -51,9 +51,7 @@ body { background: #323430; }
   85% {
     transform: scale(1, 0.25);
   }
-  88% {
-    transform: scale(1, 0.25);
-  }
+  88% { transform: scale(1, 0.25); }
   95%,
   100% {
     transform: scale(1, 0.25);
