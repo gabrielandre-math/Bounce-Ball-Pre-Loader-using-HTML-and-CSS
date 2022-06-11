@@ -10,7 +10,6 @@ body { background: #323430; }
   border-radius: 50%;
   transform: translate(-50%, -50%);
 }
-
 .bounce:before {
   content: "";
   position: absolute;
