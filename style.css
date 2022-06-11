@@ -21,7 +21,6 @@ body { background: #323430; }
   box-shadow: inset 0 -10px rgba(0, 0, 0, 0.1);
   animation: bounce 0.75s infinite linear;
 }
-
 .bounce:after {
   content: "";
   position: absolute;
