@@ -40,7 +40,6 @@ body { background: #323430; }
   95%,
   100% { transform: translate(0, -50%) scale(1, 0.8); }
 }
-
 @keyframes bounceshadow {
   0% { transform: scale(1, 0.25); }
   30% { transform: scale(1.5, 0.25); }
